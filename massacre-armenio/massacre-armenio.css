@@ -37,6 +37,12 @@ header p{
     text-transform: uppercase;
     font-size: 1.5em;
 }
+header img#voltar{
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
 nav{
     font-family: var(--fonte1);
     background-color: var(--cor4);
