@@ -109,6 +109,9 @@ main img{
     width: 100%;
     max-width: 600px;
 }
+main iframe{
+    width: 100%;
+}
 footer{
     font-size: 1.4em;
     font-family: var(--fonte2);
